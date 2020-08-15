@@ -17,7 +17,6 @@ a {
 }
 /* containerクラスのCSSを指定してください */
 .container{
-  max-width:1170px;
   width:100%;
   padding-left:15px;
   padding-right:15px;
@@ -201,19 +200,14 @@ header{
    border: 1px solid #dee7ec;
 	
  }
-.sub p{
-color:black;
-}
+
  .sub-title {            
 border-bottom: 2px solid #dee7ec;            
 font-size: 28px;            
 padding-bottom: 15px;            
  margin-bottom:50px;
-color:black;
 }
-.sub-title h3{
-color:black;
-}
+
 .contact-submit{
   background-color:#dee7ec;
   color:#889eab;
