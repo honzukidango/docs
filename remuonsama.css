@@ -32,7 +32,7 @@ a {
   padding-bottom:50px;
   background-image:url(https://drive.google.com/uc?export=view&id=1vElDhft5JtYFkg4z1nyHAuU2lpd-ER7A);
   color:black;
-  background-size:auto;
+  background-size:100%;
 text-align:center; 
 }
 
@@ -191,21 +191,25 @@ header{
 }
 .sub{            
     padding-top: 50px;
-	color:black;
  }
  input,textarea{
-     width: 100%;            
+     width: 50%;            
     margin-top: 10px;            
    margin-bottom: 30px;            
    padding: 20px;            
    font-size: 18px;            
-   border: 1px solid #dee7ec;            
+   border: 1px solid #dee7ec;
+	
  }
+.sub p{
+color:black;
+}
  .sub-title {            
 border-bottom: 2px solid #dee7ec;            
 font-size: 28px;            
 padding-bottom: 15px;            
- margin-bottom: 50px;            
+ margin-bottom:50px;
+	color:black;
 }
 .contact-submit{
   background-color:#dee7ec;
