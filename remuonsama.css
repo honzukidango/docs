@@ -17,6 +17,7 @@ a {
 }
 /* containerクラスのCSSを指定してください */
 .container{
+  max-width:1170px;
   width:100%;
   padding-left:15px;
   padding-right:15px;
@@ -31,7 +32,7 @@ a {
   padding-bottom:50px;
   background-image:url(https://drive.google.com/uc?export=view&id=1vElDhft5JtYFkg4z1nyHAuU2lpd-ER7A);
   color:black;
-  background-size:cover;
+  background-size:auto 100%;
 text-align:center; 
 }
 
