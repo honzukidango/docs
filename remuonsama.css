@@ -194,6 +194,7 @@ header{
 
   padding-bottom:80px;
   text-align:center;
+background-color:#666699;
 }
 
 .message{
@@ -229,7 +230,7 @@ footer p{
 
 footer{
   padding-top:10px;
-
+background-color:#330000;
 }
 
 footer .logo{
