@@ -19,7 +19,10 @@ a {
 .fa-bars{
 	display:none;
 }
-.header-right #{
+.login1{
+	margin-right:5px;
+}
+.login2{
 	margin-right:5px;
 }
 /* containerクラスのCSSを指定してください */
