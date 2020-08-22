@@ -16,6 +16,12 @@ a {
 .clear{
   clear:left;
 }
+.fa-bars{
+	display:none;
+}
+.header-right #{
+	margin-right:5px;
+}
 /* containerクラスのCSSを指定してください */
 .container{
   max-width:1170px;
